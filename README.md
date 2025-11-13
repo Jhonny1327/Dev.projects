@@ -1,1 +1,1 @@
-h# Dev.projects
+Olá, aqui será onde subirei meus projetos pessoais que por agora será focado um pouco mais em lógica de programação para aperfeiçoar meu aprendizado na área.
